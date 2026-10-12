@@ -1,0 +1,11 @@
+data/
+results/
+figures/
+logs/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.idea/
+.vscode/
+*.docx

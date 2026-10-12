@@ -1,0 +1,17 @@
+name: mt-gbm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - numba
+  - joblib
+  - matplotlib
+  - requests
+  - scikit-learn
+  - scikit-survival
+  - lifelines=0.30
+  - pymoo=0.6.2
+  - pip
